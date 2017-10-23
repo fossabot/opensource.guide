@@ -1,6 +1,7 @@
 # Open Source Guides
 
 [![Build Status](https://travis-ci.org/github/opensource.guide.svg?branch=gh-pages)](https://travis-ci.org/github/opensource.guide)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMissSheyni%2Fopensource.guide.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMissSheyni%2Fopensource.guide?ref=badge_shield)
 
 Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
 
@@ -22,6 +23,9 @@ Our goal is for this project to reflect community best practices, so we'd love y
 ## Licenses
 
 Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMissSheyni%2Fopensource.guide.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMissSheyni%2Fopensource.guide?ref=badge_large)
 
 ## Acknowledgments
 
